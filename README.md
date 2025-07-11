@@ -30,14 +30,6 @@ All notes are written in Markdown and organized by topic:
 
 ---
 
-## 🧪 Practicals
-
-- [`relative_pay.sql`](./practicals/relative_pay.sql)
-- [`maximizing_the_final_element.py`](./practicals/maximizing_the_final_element.py)
-- [`REST_API_Products_in_Range.py`](./practicals/REST_API_Products_in_Range.py)
-
----
-
 ## 🧠 Information Resources
 
 - [`security-domains-overview.md`](./information/security-domains-overview.md)
