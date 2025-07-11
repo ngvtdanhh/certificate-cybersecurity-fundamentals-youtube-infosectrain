@@ -6,7 +6,7 @@
 ![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=openaccess)
 ![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
-This repository documents my learning journey from the **Cybersecurity Fundamentals** courses provided by [Erika (YouTube)](https://www.youtube.com/@erikainfosectrain) and InfoSecTrain. It includes structured notes, practice demos, code-based challenges, screenshots, and completion certificate.
+This repository documents my learning journey from the **Cybersecurity Fundamentals** courses provided by [Erika (YouTube)] and InfoSecTrain. It includes structured notes, practice demos, code-based challenges, screenshots, and completion certificate.
 
 ---
 
