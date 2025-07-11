@@ -14,19 +14,19 @@ This repository documents my learning journey from the **Cybersecurity Fundament
 
 All notes are written in Markdown and organized by topic:
 
-- [`intro-to-cybersecurity.md`](./notes/intro-to-cybersecurity.md)
-- [`authentication-models.md`](./notes/authentication-models.md)
-- [`network-concepts.md`](./notes/network-concepts.md)
-- [`risk-management-basics.md`](./notes/risk-management-basics.md)
-- [`cyber-threats-overview.md`](./notes/cyber-threats-overview.md)
+- 📌 [`authentication-and-encryption.md`](./notes/authentication-and-encryption.md) – Core authentication protocols & encryption schemes
+- 🐛 [`cyber-attacks-and-malware.md`](./notes/cyber-attacks-and-malware.md) – Common attack vectors, malware lifecycle
+- 📋 [`governance-risk-compliance.md`](./notes/governance-risk-compliance.md) – GRC fundamentals & cybersecurity policy
+- 🌐 [`networking-and-protocols.md`](./notes/networking-and-protocols.md) – OSI, TCP/IP, and secure networking protocols
+- 🛠️ [`security-tools-and-practices.md`](./notes/security-tools-and-practices.md) – Practical security tools and methodologies
 
 ---
 
 ## 🛠️ Demo Labs
 
-- [`firewall-hardening-lab.md`](./demo/firewall-hardening-lab.md)
-- [`access-control-exercise.md`](./demo/access-control-exercise.md)
-- [`vulnerability-scan-setup.md`](./demo/vulnerability-scan-setup.md)
+- 🔐 [`firewall-rule-hardening.md`](./demo/firewall-rule-hardening.md) – Secure firewall configuration guide
+- 🧪 [`password-policy-audit.sh`](./demo/password-policy-audit.sh) – Shell script to test password compliance
+- 🎯 [`phishing-simulation-report.md`](./demo/phishing-simulation-report.md) – Simulated phishing campaign evaluation
 
 ---
 
